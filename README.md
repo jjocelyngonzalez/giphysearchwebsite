@@ -1,2 +1,2 @@
-# foodsfordagainswebsite
-website that uses a real api to search for healthy recipes
+# giphy search api website
+website that uses a real api to search
