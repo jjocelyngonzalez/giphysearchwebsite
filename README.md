@@ -1,3 +1,5 @@
+by JOCELYN GONZALEZ
+
 ## 🔍 Overview
 A website that uses an api to search for gifs.
 
@@ -18,5 +20,3 @@ Enter a keyword and hit submit. GIFs related to the keyword will appear.
 - As a frequent visitor, I want to be able to favorite/heart GIFs.
 - As a mobile user, I want the GIFs to be adjusted to my screen size.
 - As a web user, I want to have a button to copy and paste GIFs.
-
-by JOCELYN GONZALEZ
