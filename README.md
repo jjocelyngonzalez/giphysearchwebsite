@@ -12,7 +12,7 @@ Enter a keyword and hit submit. GIFs related to the keyword will appear.
 ## 💡 Things to change in the future
 1. Add more layers to the page.
 2. Have trending GIFS visible before you click search.
-3. Add loading animation during the request.
+3. Add a cute little loading animation during the request.
 
 ## ✨ User Stories
 - As a frequent visitor, I want to be able to favorite/heart GIFs.
